@@ -1,0 +1,4 @@
+cd ~/lab1
+mkdir ch3
+cd ch3
+vi memo.txt:set nu:%s/apple/orange/
